@@ -19,8 +19,8 @@ _Papers_
 
 
 
-### multimodal affective ###
-#### MABSA ####
+### _multimodal affective_ ###
+#### _MABSA_ ####
 * [1]Zhao, H., Yang, M., Bai, X., & Liu, H. (2024). A Survey on Multimodal Aspect-Based Sentiment Analysis. IEEE Access.   
     [[_paper_]](https://ieeexplore.ieee.org/abstract/document/10401113)
 * [2]Wang, C., Luo, Y., Meng, C., & Yuan, F. (2024). An adaptive Dual Graph Convolution Fusion Network for Aspect-Based Sentiment Analysis. ACM Transactions on Asian and Low-Resource Language Information Processing.    
