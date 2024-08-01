@@ -1,5 +1,11 @@
 
-_Papers_
+_Multimodal Affective Computing Papers_
+
+> Multimodal Sentiment Analysis (MSA)
+> Multimodal Emotion Recognition in Conversation (MERC)
+> Multimodal Aspect-based Sentiment Analysis (MABSA)
+> Multimodal Multi-label Emotion Recognition (MMER)
+> Multimodal Emotion-cause Pair Extraction in Conversation (MECPE)
 ----------------
 
 #### _Multimodal Sentiment Analysis (MSA)_ ####
