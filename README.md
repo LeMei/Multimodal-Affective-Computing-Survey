@@ -1,99 +1,171 @@
 
 _Papers_
 ----------------
-### _Missing_modality_ ###
-* [1] T Zhou, S Canu, P Vera, S Ruan. [[_modality fusion based deep neural network for brain tumor segmentation with missing MR modalities_]](https://www.sciencedirect.com/science/article/pii/S0925231221013904)      
 
-* [2] J Zhao, R Li, Q Jin. [[_Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities_]](https://aclanthology.org/2021.acl-long.203/)      
+#### _Multimodal Sentiment Analysis (MSA)_ ####
+* [1] Huisheng Mao, Baozheng Zhang, Hua Xu, Ziqi Yuan, Yihe Liu. [[_Robust-MSA: Understanding the Impact of Modality Noise
+on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)      
 
-* [3] W Luo, M Xu, H Lai. [[_Multimodal Reconstruct and Align Net for Missing Modality Problem in Sentiment Analysis_]](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_34)      
+* [2] S Afzal, HA Khan, IU Khan, MJ Piran…. [[_A Comprehensive Survey on Affective Computing_ Challenges, Trends, Applications, and Future Directions_]](https://arxiv.org/abs/2305.07665)      
 
-* [4] Q Zhang, L Shi, P Liu, Z Zhu, L Xu - 2023 - Springer. [[_integrating consistency and difference networks by transformer for multimodal sentiment analysis_]](https://link.springer.com/article/10.1007/s10489-023-04869-x)      
+* [3] J Peng, T Wu, W Zhang, F Cheng, S Tan, F Yi…. [[_A fine-grained modal label-based multi-stage network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0957417423002221)      
 
-* [5] J Zeng, T Liu, J Zhou. [[_assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities_]](https://dl.acm.org/doi/abs/10.1145/3477495.3532064)      
+* [4] Y Zhi, J Li, H Wang, J Chen…. [[_A Fine-Grained Tri-Modal Interaction Model for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10447872/)      
 
-* [6] S Parthasarathy, S Sundaram. [[_Visual Expression Recognition_]](https://dl.acm.org/doi/abs/10.1145/3395035.3425202)      
+* [5] J LIU, H SONG, DP CHEN, B WANG, ZW ZHANG. [[_A Multimodal Sentiment Analysis Model Enhanced with Non-verbal Information and Contrastive Learning_]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT231274)      
 
-* [7] C Shang, A Palmer, J Sun, KS Chen…. [[_Missing View Imputation with Generative Adversarial Networks_]](https://ieeexplore.ieee.org/abstract/document/8257992/)      
+* [6] X Sun, X Ren, X Xie. [[_A NOVEL MULTIMODAL SENTIMENT ANALYSIS MODEL BASED ON GATED FUSION AND MULTI-TASK LEARNING_]](https://ieeexplore.ieee.org/abstract/document/10446040/)      
 
+* [7] MM Amin, R Mao, E Cambria, BW Schuller. [[_A Wide Evaluation of ChatGPT on Affective Computing Tasks_]](https://arxiv.org/abs/2308.13911)      
 
+* [8] AAB Zadeh, PP Liang, S Poria, E Cambria…. [[_CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph_]](https://aclanthology.org/P18-1208/)      
 
-### _multimodal affective_ ###
-#### _MABSA_ ####
-* [1] H Zhao, M Yang, X Bai, H Liu. [[_A Survey on Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10401113/)      
-    
-* [2] C Wang, Y Luo, C Meng, F Yuan. [[_An Adaptive Dual Graph Convolution Fusion Network for Aspect-Based Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3659579)      
+* [9] W Yu, H Xu, F Meng, Y Zhu, Y Ma, J Wu…. [[_A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality_]](https://aclanthology.org/2020.acl-main.343/)      
 
-* [3] R Zhou, W Guo, X Liu, S Yu, Y Zhang…. [[_AoM Detecting Aspect-oriented Information for Multimodal_]](https://arxiv.org/abs/2306.01004)      
+* [10] K Kim, S Park. [[_All-modalities-in-One BERT for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253522002329)      
 
-* [4] L Xiao, X Wu, S Yang, J Xu, J Zhou, L He. [[_Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0306457323002455)      
+* [11] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. [[_A_Transformer-Based_Model_With_Self-Distillation_for_Multimodal_Emotion_Recognition_in_Conversations_]](https://ieeexplore.ieee.org/document/10109845)      
 
-* [5] L Yang, JC Na, J Yu. [[_Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis_]](https://www.sciencedirect.com/science/article/pii/S0306457322001479) 
+* [12] J Tang, D Liu, X Jin, Y Peng, Q Zhao…. [[_Bi-Direction Attention Based Fusion Network for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9932611/)      
 
-* [6] Z Yu, J Wang, LC Yu, X Zhang. [[_Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis_]](https://aclanthology.org/2022.aacl-main.32/)      
+* [13] Z Li, B Xu, C Zhu, T Zhao. [[_CLMLF-A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection_]](https://arxiv.org/abs/2204.05515)      
 
-* [7] Jianfei Yu, Jing Jiang, Rui Xia. [[_Entity-Sensitive_Attention_and_Fusion_Network_for_Entity-Level_Multimodal_Sentiment_Classification_]]((https://ieeexplore.ieee.org/document/8926404))   
+* [14] J Yang, Y Yu, D Niu, W Guo, Y Xu. [[_Contrastive Feature Decomposition for Multimodal Sentiment Analysis_]](https://aclanthology.org/2023.acl-long.421/)      
 
-* [8] X Yang, S Feng, D Wang, S Qi, W Wu, Y Zhang…. [[_Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt_]](https://arxiv.org/abs/2305.10169)      
+* [15] Y Yu, M Zhao, S Qi, F Sun, B Wang, W Guo…. [[_Contrastive Knowledge Injection for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2306.15796)      
 
-* [9] X Yang, S Feng, D Wang, S Qi, W Wu, Y Zhang…. [[_Few-shot joint multimodal aspect-sentiment analysis based on generative_]](https://arxiv.org/abs/2305.10169)      
+* [16] DS Chauhan, MS Akhtar, A Ekbal…. [[_Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis_]](https://aclanthology.org/D19-1566/)      
 
-* [10] Jun Zhao, Fuping Yang. [[_Fusion_with_GCN_and_SE-ResNeXt_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis_]](https://ieeexplore.ieee.org/document/10082618)      
+* [17] M Huang, C Qing, J Tan, X Xu. [[_Context-Based Adaptive Multimodal Fusion Network for Continuous Frame-Level Sentiment Prediction_]](https://ieeexplore.ieee.org/abstract/document/10271721/)      
 
-* [11] Junjie Xu, Shuwen Yang, Luwei Xiao, Zhichao Fu, Xingjiao Wu, Tianlong Ma,... . [[_Graph_Convolution_over_the_Semantic-syntactic_Hybrid_Graph_Enhanced_by_Affective_Knowledge_for_Aspect-level_Sentiment_Classification_]](https://ieeexplore.ieee.org/document/9892027)      
+* [18] Y Zeng, W Yan, S Mai, H Hu. [[_Disentanglement Translation Network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253523003470)      
 
-* [12] Jianfei Yu, Kai Chen, Rui Xia. [[_Hierarchical_Interactive_Multimodal_Transformer_for_Aspect-Based_Multimodal_Sentiment_Analysis_]](https://ieeexplore.ieee.org/document/9765342)      
+* [19] S Mai, H Hu, S Xing. [[_Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing_]](https://aclanthology.org/P19-1046/)      
 
-* [13] K Zhang, K Zhang, M Zhang, H Zhao, Q Liu…. [[_Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis_]](https://arxiv.org/abs/2203.16369)     
+* [20] Marie-Francine Moens, Xuanjing Huang, Lucia Specia, Scott Wen-tau Yih. [[_Multimodal Phased Transformer for Sentiment Analysis_]](https://aclanthology.org/2021.emnlp-main.189/)      
 
-* [14] X Ju, D Zhang, R Xiao, J Li, S Li…. [[_Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection_]](https://aclanthology.org/2021.emnlp-main.360/)      
+* [21] A Martins, R Astudillo. [[_A Sparse Model of Attention and Multi-Label Classification_]](https://proceedings.mlr.press/v48/martins16)      
 
-* [15] X Ju, D Zhang, R Xiao, J Li, S Li…. [[_Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal_]](https://aclanthology.org/2021.emnlp-main.360/)      
+* [22] H Liang, W Xie, X He, S Song…. [[_GUIDED CIRCULAR DECOMPOSITION AND CROSS-MODAL RECOMBINATION FOR MULTIMODAL SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/10446166/)      
 
-* [16] F Zhao, C Li, Z Wu, Y Ouyang, J Zhang…. [[_M2DF Multi-grained Multi-curriculum Denoising Framework for_]](https://arxiv.org/abs/2310.14605)      
+* [23] S Mai, Y Zeng, S Zheng, H Hu. [[_Hybrid Contrastive Learning of Tri-Modal Representation for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9767560/)      
 
-* [17] F Zhao, C Li, Z Wu, Y Ouyang, J Zhang…. [[_M2DF- Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis_]](https://arxiv.org/abs/2310.14605)    
+* [24] X Zhao, Y Chen, W Li, L Gao…. [[_An Extended Multimodal Adaptation Gate for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9746536/)      
 
-* [18] J Zhou, J Zhao, JX Huang, QV Hu, L He. [[_MASAL A large-scale dataset for multimodal aspect-based sentiment_]](https://www.sciencedirect.com/science/article/pii/S0925231221007931)      
+* [25] D Hazarika, S Poria, R Mihalcea…. [[_Interactive Conversational Memory Network for Multimodal Emotion Detection_]](https://aclanthology.org/D18-1280/)      
 
-* [19]  PictureCarol Xu, PictureXuan Luo, PictureDan Wang. [[_MMCPR: A Chinese Product Review Dataset for Multimodal Aspect-Based Sentiment Analysis_]]((https://dl.acm.org/doi/abs/10.1007/978-3-031-23585-6_8))      
+* [26] C Busso, M Bulut, CC Lee, A Kazemzadeh…. [[_Interactive emotional dyadic motion capture database_]](https://link.springer.com/article/10.1007/s10579-008-9076-6)      
 
-* [20] Jie Mu, Feiping Nie, Wei Wang, Jian Xu, Jing Zhang, Han Liu. [[_MOCOLNet_A_Momentum_Contrastive_Learning_Network_for_Multimodal_Aspect-Level_Sentiment_Analysis_]](MOCOLNet_A_Momentum_Contrastive_Learning_Network_for_Multimodal_Aspect-Level_Sentiment_Analysis)      
+* [27] W Han, H Chen, S Poria. [[_Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2109.00412)      
 
-* [21] Z Zhang, Z Wang, X Li, N Liu, B Guo, Z Yu. [[_ModalNet_an Aspect-level sentiment classification model by exploring multimodal data with fusion discriminant attentional networks_]](https://link.springer.com/article/10.1007/s11280-021-00955-7)      
+* [28] W Rahman, MK Hasan, S Lee, A Zadeh…. [[_Integrating Multimodal Information in Large Pretrained Transformers_]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005298/)      
 
-* [22] H Jin, J Tan, L Liu, L Qiu, S Yao, X Chen…. [[_MSRA- A Multi-Aspect Semantic Relevance Approach for E-Commerce via Multimodal Pre-Training_]](https://dl.acm.org/doi/abs/10.1145/3583780.3615224)      
+* [29] C Chen, H Hong, J Guo, B Song. [[_Inter-Intra Modal Representation Augmentation With Trimodal Collaborative Disentanglement Network for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10089492/)      
 
-* [23] J Yang, Y Xiao, X Du. [[_Multi-grained fusion network with self-distillation for aspect-based multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0950705124003599)      
+* [30] VW Liang, Y Zhang, Y Kwon…. [[_Understanding the Modality Gap in Multi-modal Contrastive Representation Learning_]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/702f4db7543a7432431df588d57bc7c9-Abstract-Conference.html)      
 
-* [24] N Xu, W Mao, G Chen. [[_Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3807)      
-    
-* [25] N Xu, W Mao, G Chen. [[_Multi_Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3807)      
+* [31] D Hazarika, R Zimmermann, S Poria. [[_Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413678)      
 
-* [26] M Anschütz, T Eder, G Groh. [[_Retrieving Users’ Opinions on Social Media with Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10066699/)      
+* [32] J Zeng, J Zhou, T Liu. [[_Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities_]](https://aclanthology.org/2022.emnlp-main.189/)      
 
-* [27] J Yu, J Wang, R Xia, J Li. [[_Targeted Multimodal Sentiment Classification Based on_]](https://www.ijcai.org/proceedings/2022/0622.pdf)      
+* [33] K Yang, H Xu, K Gao. [[_Cross-Modal BERT for Text-Audio Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413690)      
 
-* [28] Donghong Gu, Jiaqian Wang, Shaohua Cai, Chi Yang, Zhengxin Song. [[_Targeted_Aspect-Based_Multimodal_Sentiment_Analysis_An_Attention_Capsule_Extraction_and_Multi-Head_Fusion_Network_]](https://ieeexplore.ieee.org/document/9606882)      
+* [34] S Mai, H Hu, S Xing. [[_Modality to Modality Translation An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion_]](https://aaai.org/ojs/index.php/AAAI/article/view/5347)      
 
-* [29] Y Ling, J Yu, R Xia. [[_Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis 2_]](https://arxiv.org/abs/2204.07955)      
+* [35] Z Liu, B Zhou, D Chu, Y Sun, L Meng. [[_Modality translation-based multimodal sentiment analysis under uncertain missing modalities_]](https://www.sciencedirect.com/science/article/pii/S1566253523002890)      
 
-* [30] Y Ling, J Yu, R Xia. [[_Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis_]](https://arxiv.org/abs/2204.07955)      
+* [36] Z Lin, B Liang, Y Long, Y Dang…. [[_Hierarchical Graph Contrastive Learning for Multimodal Sentiment Analysis_]](https://repository.essex.ac.uk/34855/)      
 
-* [31] QT Truong, HW Lauw. [[_VistaNet_Visual Aspect Attention Network for Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3799)      
+* [37] A Zadeh, R Zellers, E Pincus, LP Morency. [[_Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos_]](https://arxiv.org/abs/1606.06259)      
 
-* [32] D Lu, L Neves, V Carvalho, N Zhang…. [[_Visual Attention Model for Name Tagging in Multimodal Social Media_]](https://aclanthology.org/P18-1185/)      
+* [38] J Yang, Y Wang, R Yi, Y Zhu, A Rehman…. [[_Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences_]](https://arxiv.org/abs/2010.11985)      
 
+* [39] L Xiao, X Wu, W Wu, J Yang…. [[_MULTI-CHANNEL ATTENTIVE GRAPH CONVOLUTIONAL NETWORK WITH SENTIMENT FUSION FOR MULTIMODAL SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/9747542/)      
 
-#### _MECPE_ ####
-* [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
+* [40] J Zheng, S Zhang, Z Wang, X Wang…. [[_Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition_]](https://ieeexplore.ieee.org/abstract/document/9693238/)      
 
-* [2] SV Mathur, AR Jindal, H Mittal…. [[_Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task_]](https://arxiv.org/abs/2404.02088)      
+* [41] L Fang, G Liu, R Zhang. [[_MULTI-GRAINED MULTIMODAL INTERACTION NETWORK FOR SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/10446351/)      
 
-* [3] F Wang, Z Ding, R Xia, Z Li, J Yu. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9969873/)      
+* [42] S Poria, E Cambria, D Hazarika…. [[_Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/8215597/)      
 
+* [43] MS Akhtar, DS Chauhan, D Ghosal, S Poria…. [[_Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis_]](https://arxiv.org/abs/1905.05812)      
 
-#### _MERC_ ####
+* [44] R Lin, H Hu. [[_Multimodal Contrastive Learning via Uni-Modal Coding and Cross-Modal Prediction for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2210.14556)      
+
+* [45] PP Liang, Z Liu, A Zadeh, LP Morency. [[_Multimodal Language Analysis with Recurrent Multistage Fusion_]](https://arxiv.org/abs/1808.03920)      
+
+* [46] Z Wu, Z Gong, J Koo, J Hirschberg. [[_Multimodal Multi-loss Fusion Network for Sentiment Analysis_]](https://aclanthology.org/2024.naacl-long.197/)      
+
+* [47] J Cheng, I Fostiropoulos, B Boehm…. [[_Multimodal Phased Transformer for Sentiment Analysis_]](https://aclanthology.org/2021.emnlp-main.189/)      
+
+* [48] J Zheng, S Zhang, X Wang, Z Zeng. [[_Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2201.03969)      
+
+* [49] Z Li, Q Guo, C Feng, L Deng, Q Zhang…. [[_Multimodal Sentiment Analysis Based on Interactive Transformer and Soft Mapping_]](https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/6243347) 
+
+* [50] M Chen, S Wang, PP Liang, T Baltrušaitis…. [[_Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning_]](https://dl.acm.org/doi/abs/10.1145/3136755.3136801)      
+
+* [51] R Kaur, S Kautish. [[_A Survey_]](https://www.igi-global.com/chapter/multimodal-sentiment-analysis/308579)      
+
+* [52] A Gandhi, K Adhvaryu, S Poria, E Cambria, A Hussain. [[_A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions_]](https://www.sciencedirect.com/science/article/pii/S1566253522001634)      
+
+* [53] X Yang, S Feng, Y Zhang, D Wang. [[_Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks_]](https://aclanthology.org/2021.acl-long.28/)      
+
+* [54] Huan Deng, Zhenguo Yang, Tianyong Hao, Qing Li, Wenyin Liu. [[_Multimodal_Affective_Computing_With_Dense_Fusion_Transformer_for_Inter-_and_Intra-Modality_Interactions_]](Multimodal_Affective_Computing_With_Dense_Fusion_Transformer_for_Inter-_and_Intra-Modality_Interactions)      
+
+* [55] MS Akhtar, DS Chauhan, D Ghosal, S Poria…. [[_NAACL19_Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis(1)_]](https://arxiv.org/abs/1905.05812)      
+
+* [56] F Wang, S Tian, L Yu, J Liu, J Wang, K Li…. [[_s12559-022-10073-9_]](https://link.springer.com/article/10.1007/s12559-022-10073-9)      
+
+* [57] H Luo, L Ji, Y Huang, B Wang, S Ji, T Li. [[_Improving Multimodal Sentiment Analysis via Multi-Scale Fusion of Locally Descriptors_]](https://arxiv.org/abs/2112.01368)      
+
+* [58] H Yang, X Gao, J Wu, T Gan, N Ding…. [[_Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition_]](https://aclanthology.org/2023.findings-acl.390/)      
+
+* [59] F Qian, J Han, Y He, T Zheng…. [[_Sentiment Knowledge Enhanced Self-supervised Learning for Multimodal Sentiment Analysis_]](https://aclanthology.org/2023.findings-acl.821/)      
+
+* [60] Y Wu, Y Zhao, H Yang, S Chen, B Qin, X Cao…. [[_Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors_]](https://arxiv.org/abs/2203.00257)      
+
+* [61] S Lai, J Li, G Guo, X Hu, Y Li, Y Tan, Z Song…. [[_Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning_]](https://arxiv.org/abs/2305.08473)      
+
+* [62] C Zhu, M Chen, S Zhang, C Sun, H Liang, Y Liu…. [[_Sentiment Knowledge Enhanced Attention Fusion Network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253523002749)      
+
+* [63] M Chen, X Li. [[_Sentimental Words Aware Fusion Network for Multimodal Sentiment Analysis_]](https://aclanthology.org/2020.coling-main.93/)      
+
+* [64] Y Wei, S Yuan, R Yang, L Shen, Z Li…. [[_Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection_]](https://aclanthology.org/2023.acl-long.287/)      
+
+* [65] J Zeng, T Liu, J Zhou. [[_Tag-assisted Multimodal Sentiment Analysis under Uncertain_]](https://dl.acm.org/doi/abs/10.1145/3477495.3532064)      
+
+* [66] J Yu, J Wang, R Xia, J Li. [[_Targeted Multimodal Sentiment Classifcation Based on Coarse-to-Fine Grained Image-Target Matching_]](https://www.ijcai.org/proceedings/2022/0622.pdf)      
+
+* [67] M Zhou, W Quan, Z Zhou, K Wang, T Wang…. [[_Text-oriented Cross Attention Network for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2404.04545)      
+
+* [68] C Huang, J Zhang, X Wu, Y Wang, M Li…. [[_Text-centered fusion network with crossmodal attention for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0950705123002526)      
+
+* [69] A Zadeh, M Chen, S Poria, E Cambria…. [[_Tensor Fusion Network for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/1707.07250)      
+
+* [70] D Wang, X Guo, Y Tian, J Liu, LH He, X Luo. [[_A text enhanced transformer fusion network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0031320322007385)      
+
+* [71] L Stappen, A Baird, L Schumann…. [[_Collection, Insights and Improvements_]](https://ieeexplore.ieee.org/abstract/document/9484711/)      
+
+* [72] X Zhao, Y Chen, S Liu, X Zang, Y Xiang…. [[_A New Token Mixup Multimodal Data Augmentation for Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3543507.3583406)      
+
+* [73] Y Li, W Weng, C Liu. [[_two-stage contrastive learning and feature hierarchical fusion network for multimodal sentiment analysis_]](https://link.springer.com/article/10.1007/s00521-024-09634-w)      
+
+* [74] Y Zeng, S Mai, H Hu. [[_Modulating Unimodal and Cross-modal Dynamics for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2111.08451)      
+
+* [75] W Yu, H Xu, Z Yuan, J Wu. [[__AAAI21_Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/17289)      
+
+* [76] Yao-Hung Hubert Tsai, Shaojie Bai, Paul Pu Liang, J. Zico Kolter, Louis-Philippe Morency, Ruslan Salakhutdinov. [[__Multimodal Transformer for Unaligned Multimodal Language Sequences_]](https://arxiv.org/abs/1906.00295)      
+
+* [77] J Tang, K Li, X Jin, A Cichocki, Q Zhao…. [[_Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network_]](https://aclanthology.org/2021.acl-long.412/)      
+
+* [78] A Zadeh, YS Cao, S Hessner, PP Liang…. [[_A Multimodal Language Dataset for Spanish, Portuguese, German and French_]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106386/)      
+
+* [79] W Han, H Chen, S Poria. [[__EMNLP21_Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2109.00412)   
+
+* [80] Z Yuan, W Li, H Xu, W Yu. [[__MM21_Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3474085.3475585)
+
+#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
+
 * [1] S Harata, T Sakuma, S Kato. [[_978-3-031-06388-6_18_]](https://link.springer.com/chapter/10.1007/978-3-031-06388-6_18)      
     In Affective Computing, a mathematical representation of emotions in the computer is 
 desirable for emotionally interactive agents. This study aims to obtain a latent representation of …
@@ -264,9 +336,75 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 * [84] J Hu, Y Liu, J Zhao, Q Jin. [[_Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation_]](https://arxiv.org/abs/2107.06779)      
 
-* [85] L Stappen, A Baird, L Christ, L Schumann…. [[_Sentiment, Emotion, Physiological-Emotion, and Stress_]](https://dl.acm.org/doi/abs/10.1145/3475957.3484450)      
+* [85] L Stappen, A Baird, L Christ, L Schumann…. [[_Sentiment, Emotion, Physiological-Emotion, and Stress_]](https://dl.acm.org/doi/abs/10.1145/3475957.3484450) 
 
 
+
+#### _MABSA_ ####
+* [1] H Zhao, M Yang, X Bai, H Liu. [[_A Survey on Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10401113/)      
+    
+* [2] C Wang, Y Luo, C Meng, F Yuan. [[_An Adaptive Dual Graph Convolution Fusion Network for Aspect-Based Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3659579)      
+
+* [3] R Zhou, W Guo, X Liu, S Yu, Y Zhang…. [[_AoM Detecting Aspect-oriented Information for Multimodal_]](https://arxiv.org/abs/2306.01004)      
+
+* [4] L Xiao, X Wu, S Yang, J Xu, J Zhou, L He. [[_Cross-modal fine-grained alignment and fusion network for multimodal aspect-based sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0306457323002455)      
+
+* [5] L Yang, JC Na, J Yu. [[_Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis_]](https://www.sciencedirect.com/science/article/pii/S0306457322001479) 
+
+* [6] Z Yu, J Wang, LC Yu, X Zhang. [[_Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis_]](https://aclanthology.org/2022.aacl-main.32/)      
+
+* [7] Jianfei Yu, Jing Jiang, Rui Xia. [[_Entity-Sensitive_Attention_and_Fusion_Network_for_Entity-Level_Multimodal_Sentiment_Classification_]]((https://ieeexplore.ieee.org/document/8926404))   
+
+* [8] X Yang, S Feng, D Wang, S Qi, W Wu, Y Zhang…. [[_Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt_]](https://arxiv.org/abs/2305.10169)      
+
+* [9] X Yang, S Feng, D Wang, S Qi, W Wu, Y Zhang…. [[_Few-shot joint multimodal aspect-sentiment analysis based on generative_]](https://arxiv.org/abs/2305.10169)      
+
+* [10] Jun Zhao, Fuping Yang. [[_Fusion_with_GCN_and_SE-ResNeXt_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis_]](https://ieeexplore.ieee.org/document/10082618)      
+
+* [11] Junjie Xu, Shuwen Yang, Luwei Xiao, Zhichao Fu, Xingjiao Wu, Tianlong Ma,... . [[_Graph_Convolution_over_the_Semantic-syntactic_Hybrid_Graph_Enhanced_by_Affective_Knowledge_for_Aspect-level_Sentiment_Classification_]](https://ieeexplore.ieee.org/document/9892027)      
+
+* [12] Jianfei Yu, Kai Chen, Rui Xia. [[_Hierarchical_Interactive_Multimodal_Transformer_for_Aspect-Based_Multimodal_Sentiment_Analysis_]](https://ieeexplore.ieee.org/document/9765342)      
+
+* [13] K Zhang, K Zhang, M Zhang, H Zhao, Q Liu…. [[_Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis_]](https://arxiv.org/abs/2203.16369)     
+
+* [14] X Ju, D Zhang, R Xiao, J Li, S Li…. [[_Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection_]](https://aclanthology.org/2021.emnlp-main.360/)      
+
+* [15] X Ju, D Zhang, R Xiao, J Li, S Li…. [[_Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal_]](https://aclanthology.org/2021.emnlp-main.360/)      
+
+* [16] F Zhao, C Li, Z Wu, Y Ouyang, J Zhang…. [[_M2DF Multi-grained Multi-curriculum Denoising Framework for_]](https://arxiv.org/abs/2310.14605)      
+
+* [17] F Zhao, C Li, Z Wu, Y Ouyang, J Zhang…. [[_M2DF- Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis_]](https://arxiv.org/abs/2310.14605)    
+
+* [18] J Zhou, J Zhao, JX Huang, QV Hu, L He. [[_MASAL A large-scale dataset for multimodal aspect-based sentiment_]](https://www.sciencedirect.com/science/article/pii/S0925231221007931)      
+
+* [19]  PictureCarol Xu, PictureXuan Luo, PictureDan Wang. [[_MMCPR: A Chinese Product Review Dataset for Multimodal Aspect-Based Sentiment Analysis_]]((https://dl.acm.org/doi/abs/10.1007/978-3-031-23585-6_8))      
+
+* [20] Jie Mu, Feiping Nie, Wei Wang, Jian Xu, Jing Zhang, Han Liu. [[_MOCOLNet_A_Momentum_Contrastive_Learning_Network_for_Multimodal_Aspect-Level_Sentiment_Analysis_]](MOCOLNet_A_Momentum_Contrastive_Learning_Network_for_Multimodal_Aspect-Level_Sentiment_Analysis)      
+
+* [21] Z Zhang, Z Wang, X Li, N Liu, B Guo, Z Yu. [[_ModalNet_an Aspect-level sentiment classification model by exploring multimodal data with fusion discriminant attentional networks_]](https://link.springer.com/article/10.1007/s11280-021-00955-7)      
+
+* [22] H Jin, J Tan, L Liu, L Qiu, S Yao, X Chen…. [[_MSRA- A Multi-Aspect Semantic Relevance Approach for E-Commerce via Multimodal Pre-Training_]](https://dl.acm.org/doi/abs/10.1145/3583780.3615224)      
+
+* [23] J Yang, Y Xiao, X Du. [[_Multi-grained fusion network with self-distillation for aspect-based multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0950705124003599)      
+
+* [24] N Xu, W Mao, G Chen. [[_Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3807)      
+    
+* [25] N Xu, W Mao, G Chen. [[_Multi_Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3807)      
+
+* [26] M Anschütz, T Eder, G Groh. [[_Retrieving Users’ Opinions on Social Media with Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10066699/)      
+
+* [27] J Yu, J Wang, R Xia, J Li. [[_Targeted Multimodal Sentiment Classification Based on_]](https://www.ijcai.org/proceedings/2022/0622.pdf)      
+
+* [28] Donghong Gu, Jiaqian Wang, Shaohua Cai, Chi Yang, Zhengxin Song. [[_Targeted_Aspect-Based_Multimodal_Sentiment_Analysis_An_Attention_Capsule_Extraction_and_Multi-Head_Fusion_Network_]](https://ieeexplore.ieee.org/document/9606882)      
+
+* [29] Y Ling, J Yu, R Xia. [[_Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis 2_]](https://arxiv.org/abs/2204.07955)      
+
+* [30] Y Ling, J Yu, R Xia. [[_Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis_]](https://arxiv.org/abs/2204.07955)      
+
+* [31] QT Truong, HW Lauw. [[_VistaNet_Visual Aspect Attention Network for Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/3799)      
+
+* [32] D Lu, L Neves, V Carvalho, N Zhang…. [[_Visual Attention Model for Name Tagging in Multimodal Social Media_]](https://aclanthology.org/P18-1185/)  
+     
 
 #### _MMER_ ####
 * [1] P Yang, F Luo, S Ma, J Lin, X Sun. [[_A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification_]](https://aclanthology.org/P19-1518/)      
@@ -319,192 +457,45 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 * [25] J Shen, W Qiu, Y Meng, J Shang, X Ren…. [[_TaxoClass- Hierarchical Multi-Label Text Classification Using Only Class Names_]](https://par.nsf.gov/biblio/10311077)      
 
-* [26] X Ju, D Zhang, J Li, G Zhou. [[_Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413577)      
+* [26] X Ju, D Zhang, J Li, G Zhou. [[_Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413577)
 
 
+  #### _MECPE_ ####
+* [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
 
-#### _MSA_ ####
-* [1] Huisheng Mao, Baozheng Zhang, Hua Xu, Ziqi Yuan, Yihe Liu. [[_Robust-MSA: Understanding the Impact of Modality Noise
-on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)      
+* [2] SV Mathur, AR Jindal, H Mittal…. [[_Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task_]](https://arxiv.org/abs/2404.02088)      
 
-* [2] S Afzal, HA Khan, IU Khan, MJ Piran…. [[_A Comprehensive Survey on Affective Computing_ Challenges, Trends, Applications, and Future Directions_]](https://arxiv.org/abs/2305.07665)      
+* [3] F Wang, Z Ding, R Xia, Z Li, J Yu. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9969873/)      
 
-* [3] J Peng, T Wu, W Zhang, F Cheng, S Tan, F Yi…. [[_A fine-grained modal label-based multi-stage network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0957417423002221)      
+   
 
-* [4] Y Zhi, J Li, H Wang, J Chen…. [[_A Fine-Grained Tri-Modal Interaction Model for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10447872/)      
+### _Missing_modality_ ###
 
-* [5] J LIU, H SONG, DP CHEN, B WANG, ZW ZHANG. [[_A Multimodal Sentiment Analysis Model Enhanced with Non-verbal Information and Contrastive Learning_]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT231274)      
+* [1] T Zhou, S Canu, P Vera, S Ruan. [[_modality fusion based deep neural network for brain tumor segmentation with missing MR modalities_]](https://www.sciencedirect.com/science/article/pii/S0925231221013904)      
 
-* [6] X Sun, X Ren, X Xie. [[_A NOVEL MULTIMODAL SENTIMENT ANALYSIS MODEL BASED ON GATED FUSION AND MULTI-TASK LEARNING_]](https://ieeexplore.ieee.org/abstract/document/10446040/)      
+* [2] J Zhao, R Li, Q Jin. [[_Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities_]](https://aclanthology.org/2021.acl-long.203/)      
 
-* [7] MM Amin, R Mao, E Cambria, BW Schuller. [[_A Wide Evaluation of ChatGPT on Affective Computing Tasks_]](https://arxiv.org/abs/2308.13911)      
+* [3] W Luo, M Xu, H Lai. [[_Multimodal Reconstruct and Align Net for Missing Modality Problem in Sentiment Analysis_]](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_34)      
 
-* [8] AAB Zadeh, PP Liang, S Poria, E Cambria…. [[_CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph_]](https://aclanthology.org/P18-1208/)      
+* [4] Q Zhang, L Shi, P Liu, Z Zhu, L Xu - 2023 - Springer. [[_integrating consistency and difference networks by transformer for multimodal sentiment analysis_]](https://link.springer.com/article/10.1007/s10489-023-04869-x)      
 
-* [9] W Yu, H Xu, F Meng, Y Zhu, Y Ma, J Wu…. [[_A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality_]](https://aclanthology.org/2020.acl-main.343/)      
+* [5] J Zeng, T Liu, J Zhou. [[_assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities_]](https://dl.acm.org/doi/abs/10.1145/3477495.3532064)      
 
-* [10] K Kim, S Park. [[_All-modalities-in-One BERT for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253522002329)      
+* [6] S Parthasarathy, S Sundaram. [[_Visual Expression Recognition_]](https://dl.acm.org/doi/abs/10.1145/3395035.3425202)      
 
-* [11] Hui Ma, Jian Wang, Hongfei Lin, Bo Zhang, Yijia Zhang, Bo Xu. [[_A_Transformer-Based_Model_With_Self-Distillation_for_Multimodal_Emotion_Recognition_in_Conversations_]](https://ieeexplore.ieee.org/document/10109845)      
-
-* [12] J Tang, D Liu, X Jin, Y Peng, Q Zhao…. [[_Bi-Direction Attention Based Fusion Network for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9932611/)      
-
-* [13] Z Li, B Xu, C Zhu, T Zhao. [[_CLMLF-A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection_]](https://arxiv.org/abs/2204.05515)      
-
-* [14] J Yang, Y Yu, D Niu, W Guo, Y Xu. [[_Contrastive Feature Decomposition for Multimodal Sentiment Analysis_]](https://aclanthology.org/2023.acl-long.421/)      
-
-* [15] Y Yu, M Zhao, S Qi, F Sun, B Wang, W Guo…. [[_Contrastive Knowledge Injection for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2306.15796)      
-
-* [16] DS Chauhan, MS Akhtar, A Ekbal…. [[_Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis_]](https://aclanthology.org/D19-1566/)      
-
-* [17] M Huang, C Qing, J Tan, X Xu. [[_Context-Based Adaptive Multimodal Fusion Network for Continuous Frame-Level Sentiment Prediction_]](https://ieeexplore.ieee.org/abstract/document/10271721/)      
-
-* [18] Y Zeng, W Yan, S Mai, H Hu. [[_Disentanglement Translation Network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253523003470)      
-
-* [19] S Mai, H Hu, S Xing. [[_Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing_]](https://aclanthology.org/P19-1046/)      
-
-* [20] Marie-Francine Moens, Xuanjing Huang, Lucia Specia, Scott Wen-tau Yih. [[_Multimodal Phased Transformer for Sentiment Analysis_]](https://aclanthology.org/2021.emnlp-main.189/)      
-
-* [21] A Martins, R Astudillo. [[_A Sparse Model of Attention and Multi-Label Classification_]](https://proceedings.mlr.press/v48/martins16)      
-
-* [22] H Liang, W Xie, X He, S Song…. [[_GUIDED CIRCULAR DECOMPOSITION AND CROSS-MODAL RECOMBINATION FOR MULTIMODAL SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/10446166/)      
-
-* [23] S Mai, Y Zeng, S Zheng, H Hu. [[_Hybrid Contrastive Learning of Tri-Modal Representation for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9767560/)      
-
-* [24] X Zhao, Y Chen, W Li, L Gao…. [[_An Extended Multimodal Adaptation Gate for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/9746536/)      
-
-* [25] D Hazarika, S Poria, R Mihalcea…. [[_Interactive Conversational Memory Network for Multimodal Emotion Detection_]](https://aclanthology.org/D18-1280/)      
-
-* [26] C Busso, M Bulut, CC Lee, A Kazemzadeh…. [[_Interactive emotional dyadic motion capture database_]](https://link.springer.com/article/10.1007/s10579-008-9076-6)      
-
-* [27] W Han, H Chen, S Poria. [[_Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2109.00412)      
-
-* [28] W Rahman, MK Hasan, S Lee, A Zadeh…. [[_Integrating Multimodal Information in Large Pretrained Transformers_]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005298/)      
-
-* [29] C Chen, H Hong, J Guo, B Song. [[_Inter-Intra Modal Representation Augmentation With Trimodal Collaborative Disentanglement Network for Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10089492/)      
-
-* [30] VW Liang, Y Zhang, Y Kwon…. [[_Understanding the Modality Gap in Multi-modal Contrastive Representation Learning_]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/702f4db7543a7432431df588d57bc7c9-Abstract-Conference.html)      
-
-* [31] D Hazarika, R Zimmermann, S Poria. [[_Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413678)      
-
-* [32] J Zeng, J Zhou, T Liu. [[_Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities_]](https://aclanthology.org/2022.emnlp-main.189/)      
-
-* [33] K Yang, H Xu, K Gao. [[_Cross-Modal BERT for Text-Audio Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413690)      
-
-* [34] S Mai, H Hu, S Xing. [[_Modality to Modality Translation An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion_]](https://aaai.org/ojs/index.php/AAAI/article/view/5347)      
-
-* [35] Z Liu, B Zhou, D Chu, Y Sun, L Meng. [[_Modality translation-based multimodal sentiment analysis under uncertain missing modalities_]](https://www.sciencedirect.com/science/article/pii/S1566253523002890)      
-
-* [36] Z Lin, B Liang, Y Long, Y Dang…. [[_Hierarchical Graph Contrastive Learning for Multimodal Sentiment Analysis_]](https://repository.essex.ac.uk/34855/)      
-
-* [37] A Zadeh, R Zellers, E Pincus, LP Morency. [[_Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos_]](https://arxiv.org/abs/1606.06259)      
-
-* [38] J Yang, Y Wang, R Yi, Y Zhu, A Rehman…. [[_Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences_]](https://arxiv.org/abs/2010.11985)      
-
-* [39] L Xiao, X Wu, W Wu, J Yang…. [[_MULTI-CHANNEL ATTENTIVE GRAPH CONVOLUTIONAL NETWORK WITH SENTIMENT FUSION FOR MULTIMODAL SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/9747542/)      
-
-* [40] J Zheng, S Zhang, Z Wang, X Wang…. [[_Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition_]](https://ieeexplore.ieee.org/abstract/document/9693238/)      
-
-* [41] L Fang, G Liu, R Zhang. [[_MULTI-GRAINED MULTIMODAL INTERACTION NETWORK FOR SENTIMENT ANALYSIS_]](https://ieeexplore.ieee.org/abstract/document/10446351/)      
-
-* [42] S Poria, E Cambria, D Hazarika…. [[_Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/8215597/)      
-
-* [43] MS Akhtar, DS Chauhan, D Ghosal, S Poria…. [[_Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis_]](https://arxiv.org/abs/1905.05812)      
-
-* [44] R Lin, H Hu. [[_Multimodal Contrastive Learning via Uni-Modal Coding and Cross-Modal Prediction for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2210.14556)      
-
-* [45] PP Liang, Z Liu, A Zadeh, LP Morency. [[_Multimodal Language Analysis with Recurrent Multistage Fusion_]](https://arxiv.org/abs/1808.03920)      
-
-* [46] Z Wu, Z Gong, J Koo, J Hirschberg. [[_Multimodal Multi-loss Fusion Network for Sentiment Analysis_]](https://aclanthology.org/2024.naacl-long.197/)      
-
-* [47] J Cheng, I Fostiropoulos, B Boehm…. [[_Multimodal Phased Transformer for Sentiment Analysis_]](https://aclanthology.org/2021.emnlp-main.189/)      
-
-* [48] J Zheng, S Zhang, X Wang, Z Zeng. [[_Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2201.03969)      
-
-* [49] Z Li, Q Guo, C Feng, L Deng, Q Zhang…. [[_Multimodal Sentiment Analysis Based on Interactive Transformer and Soft Mapping_]](https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/6243347) 
-
-* [50] M Chen, S Wang, PP Liang, T Baltrušaitis…. [[_Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning_]](https://dl.acm.org/doi/abs/10.1145/3136755.3136801)      
-
-* [51] R Kaur, S Kautish. [[_A Survey_]](https://www.igi-global.com/chapter/multimodal-sentiment-analysis/308579)      
-
-* [52] A Gandhi, K Adhvaryu, S Poria, E Cambria, A Hussain. [[_A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions_]](https://www.sciencedirect.com/science/article/pii/S1566253522001634)      
-
-* [53] X Yang, S Feng, Y Zhang, D Wang. [[_Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks_]](https://aclanthology.org/2021.acl-long.28/)      
-
-* [54] Huan Deng, Zhenguo Yang, Tianyong Hao, Qing Li, Wenyin Liu. [[_Multimodal_Affective_Computing_With_Dense_Fusion_Transformer_for_Inter-_and_Intra-Modality_Interactions_]](Multimodal_Affective_Computing_With_Dense_Fusion_Transformer_for_Inter-_and_Intra-Modality_Interactions)      
-
-* [55] MS Akhtar, DS Chauhan, D Ghosal, S Poria…. [[_NAACL19_Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis(1)_]](https://arxiv.org/abs/1905.05812)      
-
-* [56] F Wang, S Tian, L Yu, J Liu, J Wang, K Li…. [[_s12559-022-10073-9_]](https://link.springer.com/article/10.1007/s12559-022-10073-9)      
-
-* [57] H Luo, L Ji, Y Huang, B Wang, S Ji, T Li. [[_Improving Multimodal Sentiment Analysis via Multi-Scale Fusion of Locally Descriptors_]](https://arxiv.org/abs/2112.01368)      
-
-* [58] H Yang, X Gao, J Wu, T Gan, N Ding…. [[_Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition_]](https://aclanthology.org/2023.findings-acl.390/)      
-
-* [59] F Qian, J Han, Y He, T Zheng…. [[_Sentiment Knowledge Enhanced Self-supervised Learning for Multimodal Sentiment Analysis_]](https://aclanthology.org/2023.findings-acl.821/)      
-
-* [60] Y Wu, Y Zhao, H Yang, S Chen, B Qin, X Cao…. [[_Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors_]](https://arxiv.org/abs/2203.00257)      
-
-* [61] S Lai, J Li, G Guo, X Hu, Y Li, Y Tan, Z Song…. [[_Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning_]](https://arxiv.org/abs/2305.08473)      
-
-* [62] C Zhu, M Chen, S Zhang, C Sun, H Liang, Y Liu…. [[_Sentiment Knowledge Enhanced Attention Fusion Network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S1566253523002749)      
-
-* [63] M Chen, X Li. [[_Sentimental Words Aware Fusion Network for Multimodal Sentiment Analysis_]](https://aclanthology.org/2020.coling-main.93/)      
-
-* [64] Y Wei, S Yuan, R Yang, L Shen, Z Li…. [[_Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection_]](https://aclanthology.org/2023.acl-long.287/)      
-
-* [65] J Zeng, T Liu, J Zhou. [[_Tag-assisted Multimodal Sentiment Analysis under Uncertain_]](https://dl.acm.org/doi/abs/10.1145/3477495.3532064)      
-
-* [66] J Yu, J Wang, R Xia, J Li. [[_Targeted Multimodal Sentiment Classifcation Based on Coarse-to-Fine Grained Image-Target Matching_]](https://www.ijcai.org/proceedings/2022/0622.pdf)      
-
-* [67] M Zhou, W Quan, Z Zhou, K Wang, T Wang…. [[_Text-oriented Cross Attention Network for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2404.04545)      
-
-* [68] C Huang, J Zhang, X Wu, Y Wang, M Li…. [[_Text-centered fusion network with crossmodal attention for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0950705123002526)      
-
-* [69] A Zadeh, M Chen, S Poria, E Cambria…. [[_Tensor Fusion Network for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/1707.07250)      
-
-* [70] D Wang, X Guo, Y Tian, J Liu, LH He, X Luo. [[_A text enhanced transformer fusion network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0031320322007385)      
-
-* [71] L Stappen, A Baird, L Schumann…. [[_Collection, Insights and Improvements_]](https://ieeexplore.ieee.org/abstract/document/9484711/)      
-
-* [72] X Zhao, Y Chen, S Liu, X Zang, Y Xiang…. [[_A New Token Mixup Multimodal Data Augmentation for Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3543507.3583406)      
-
-* [73] Y Li, W Weng, C Liu. [[_two-stage contrastive learning and feature hierarchical fusion network for multimodal sentiment analysis_]](https://link.springer.com/article/10.1007/s00521-024-09634-w)      
-
-* [74] Y Zeng, S Mai, H Hu. [[_Modulating Unimodal and Cross-modal Dynamics for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2111.08451)      
-
-* [75] W Yu, H Xu, Z Yuan, J Wu. [[__AAAI21_Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis_]](https://ojs.aaai.org/index.php/AAAI/article/view/17289)      
-
-* [76] Yao-Hung Hubert Tsai, Shaojie Bai, Paul Pu Liang, J. Zico Kolter, Louis-Philippe Morency, Ruslan Salakhutdinov. [[__Multimodal Transformer for Unaligned Multimodal Language Sequences_]](https://arxiv.org/abs/1906.00295)      
-
-* [77] J Tang, K Li, X Jin, A Cichocki, Q Zhao…. [[_Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network_]](https://aclanthology.org/2021.acl-long.412/)      
-
-* [78] A Zadeh, YS Cao, S Hessner, PP Liang…. [[_A Multimodal Language Dataset for Spanish, Portuguese, German and French_]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106386/)      
-
-* [79] W Han, H Chen, S Poria. [[__EMNLP21_Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2109.00412)   
-
-* [80] Z Yuan, W Li, H Xu, W Yu. [[__MM21_Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3474085.3475585)      
-
-
+* [7] C Shang, A Palmer, J Sun, KS Chen…. [[_Missing View Imputation with Generative Adversarial Networks_]](https://ieeexplore.ieee.org/abstract/document/8257992/)      
 
 
 ### _probe_ ###
 * [1] T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow… - 2023 - inria.hal.science. [[_A 176B-Parameter Open-Access Multilingual Language Model_]](https://inria.hal.science/hal-03850124/)      
-    … present BLOOM, a 176B-parameter open-access language model … BLOOM is a decoder-only 
-Transformer language model that … and 13 programming languages (59 in total). We find that …
 
 * [2] Z Elyoseph, D Hadar-Shoval, K Asraf…. [[_ChatGPT outperforms humans in emotional awareness evaluations_]](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1199058/full)      
-    The artificial intelligence chatbot, ChatGPT, has gained widespread attention for its ability to perform natural language processing tasks and has the fastest-growing user base in history. Although ChatGPT has successfully generated theoretical information in multiple fields, its ability to identify and describe emotions is still unknown. Emotional awareness (EA), the ability to conceptualize one's own and others' emotions, is considered a transdiagnostic mechanism for psychopathology. This study utilized the Levels of Emotional Awareness …
 
 * [3] K Schaaff, C Reinig, T Schlippe. [[_Exploring ChatGPT’s Empathic Abilities_]](https://ieeexplore.ieee.org/abstract/document/10388208/)      
-    Empathy is often understood as the ability to share and understand another individual's state of mind or emotion. With the increasing use of chatbots in various domains, eg, children seeking help with homework, individuals looking for medical advice, and people using the chatbot as a daily source of everyday companionship, the importance of empathy in human-computer interaction has become more apparent. Therefore, our study investigates the extent to which ChatGPT based on GPT-3.5 can exhibit empathetic responses and …
 
 * [4] W Zhao, Y Zhao, X Lu, S Wang, Y Tong…. [[_Is ChatGPT Equipped with Emotional Dialogue Capabilities__]](https://arxiv.org/abs/2304.09582)      
-    This report presents a study on the emotional dialogue capability of ChatGPT, an advanced language model developed by OpenAI. The study evaluates the performance of ChatGPT on emotional dialogue understanding and generation through a series of experiments on several downstream tasks. Our findings indicate that while ChatGPT's performance on emotional dialogue understanding may still lag behind that of supervised models, it exhibits promising results in generating emotional responses. Furthermore, the study suggests …
 
 * [5] H Touvron, L Martin, K Stone, P Albert…. [[_Open Foundation and Fine-Tuned Chat Models_]](https://arxiv.org/abs/2307.09288)      
-    … large language models (LLMs) ranging in scale from 7 … fine-tuned LLMs, called Llama 
-2-Chat, are optimized for dialogue use cases. Our models outperform open-source chat models on …
 
 
 
