@@ -1,18 +1,9 @@
 
 _Multimodal Affective Computing Papers_
 
-> Multimodal Sentiment Analysis (MSA)
-
-> Multimodal Emotion Recognition in Conversation (MERC)
-
-> Multimodal Aspect-based Sentiment Analysis (MABSA)
-
-> Multimodal Multi-label Emotion Recognition (MMER)
-
-> Multimodal Emotion-cause Pair Extraction in Conversation (MECPE)
 ----------------
 
-#### _Multimodal Sentiment Analysis (MSA)_ ####
+>#### _Multimodal Sentiment Analysis (MSA)_ ####
 * [1] Huisheng Mao, Baozheng Zhang, Hua Xu, Ziqi Yuan, Yihe Liu. [[_Robust-MSA: Understanding the Impact of Modality Noise
 on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)      
 
@@ -174,7 +165,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 * [80] Z Yuan, W Li, H Xu, W Yu. [[__MM21_Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3474085.3475585)
 
-#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
+>#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
 
 * [1] S Harata, T Sakuma, S Kato. [[_978-3-031-06388-6_18_]](https://link.springer.com/chapter/10.1007/978-3-031-06388-6_18)      
     In Affective Computing, a mathematical representation of emotions in the computer is 
@@ -416,7 +407,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 * [32] D Lu, L Neves, V Carvalho, N Zhang…. [[_Visual Attention Model for Name Tagging in Multimodal Social Media_]](https://aclanthology.org/P18-1185/)  
      
 
-#### __Multimodal Multi-label Emotion Recognition (MMER)_ ####
+>#### _Multimodal Multi-label Emotion Recognition (MMER)_ ####
 * [1] P Yang, F Luo, S Ma, J Lin, X Sun. [[_A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification_]](https://aclanthology.org/P19-1518/)      
 
 * [2] D Zhou, Y Xiang, L Zhang, C Ye…. [[_A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering_]](https://aclanthology.org/2021.findings-emnlp.412/)      
@@ -470,7 +461,8 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 * [26] X Ju, D Zhang, J Li, G Zhou. [[_Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413577)
 
 
-  #### _Multimodal Emotion-cause Pair Extraction (MECPE__ ####
+>#### _Multimodal Emotion-cause Pair Extraction (MECPE)_####
+
 * [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
 
 * [2] SV Mathur, AR Jindal, H Mittal…. [[_Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task_]](https://arxiv.org/abs/2404.02088)      
@@ -479,7 +471,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
    
 
-### _Multimodal Affective Computing with Missing_modality_ ###
+>### _Multimodal Affective Computing with Missing_modality_ ###
 
 * [1] T Zhou, S Canu, P Vera, S Ruan. [[_modality fusion based deep neural network for brain tumor segmentation with missing MR modalities_]](https://www.sciencedirect.com/science/article/pii/S0925231221013904)      
 
@@ -496,7 +488,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 * [7] C Shang, A Palmer, J Sun, KS Chen…. [[_Missing View Imputation with Generative Adversarial Networks_]](https://ieeexplore.ieee.org/abstract/document/8257992/)      
 
 
-### _probe_ ###
+>### _probe_ ###
 * [1] T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow… - 2023 - inria.hal.science. [[_A 176B-Parameter Open-Access Multilingual Language Model_]](https://inria.hal.science/hal-03850124/)      
 
 * [2] Z Elyoseph, D Hadar-Shoval, K Asraf…. [[_ChatGPT outperforms humans in emotional awareness evaluations_]](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1199058/full)      
