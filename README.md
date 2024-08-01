@@ -169,6 +169,8 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 >#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
 
+>> ### Research ###
+
 * [1] S Harata, T Sakuma, S Kato. [[_978-3-031-06388-6_18_]](https://link.springer.com/chapter/10.1007/978-3-031-06388-6_18)      
     In Affective Computing, a mathematical representation of emotions in the computer is 
 desirable for emotionally interactive agents. This study aims to obtain a latent representation of …
@@ -344,6 +346,9 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 
 #### _Multimodal Aspect-based Sentiment Analysis (MABSA)_ ####
+
+>> ### Research ###
+
 * [1] H Zhao, M Yang, X Bai, H Liu. [[_A Survey on Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10401113/)      
     
 * [2] C Wang, Y Luo, C Meng, F Yuan. [[_An Adaptive Dual Graph Convolution Fusion Network for Aspect-Based Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3659579)      
@@ -410,6 +415,9 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
      
 
 >#### _Multimodal Multi-label Emotion Recognition (MMER)_ ####
+
+>> ### Research ###
+
 * [1] P Yang, F Luo, S Ma, J Lin, X Sun. [[_A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification_]](https://aclanthology.org/P19-1518/)      
 
 * [2] D Zhou, Y Xiang, L Zhang, C Ye…. [[_A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering_]](https://aclanthology.org/2021.findings-emnlp.412/)      
@@ -464,6 +472,8 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 
 >#### _Multimodal Emotion-cause Pair Extraction (MECPE)_####
+
+>> ### Research ###
 
 * [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
 
