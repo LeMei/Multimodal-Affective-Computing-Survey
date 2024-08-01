@@ -4,6 +4,7 @@ _Multimodal Affective Computing Papers_
 ----------------
 
 >#### _Multimodal Sentiment Analysis (MSA)_ ####
+>> ### Research ###
 * [1] Huisheng Mao, Baozheng Zhang, Hua Xu, Ziqi Yuan, Yihe Liu. [[_Robust-MSA: Understanding the Impact of Modality Noise
 on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)      
 
@@ -164,6 +165,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 * [79] W Han, H Chen, S Poria. [[__EMNLP21_Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2109.00412)   
 
 * [80] Z Yuan, W Li, H Xu, W Yu. [[__MM21_Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3474085.3475585)
+
 
 >#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
 
