@@ -340,7 +340,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 
 
-#### _MABSA_ ####
+#### _Multimodal Aspect-based Sentiment Analysis (MABSA)_ ####
 * [1] H Zhao, M Yang, X Bai, H Liu. [[_A Survey on Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10401113/)      
     
 * [2] C Wang, Y Luo, C Meng, F Yuan. [[_An Adaptive Dual Graph Convolution Fusion Network for Aspect-Based Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3659579)      
@@ -406,7 +406,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 * [32] D Lu, L Neves, V Carvalho, N Zhang…. [[_Visual Attention Model for Name Tagging in Multimodal Social Media_]](https://aclanthology.org/P18-1185/)  
      
 
-#### _MMER_ ####
+#### __Multimodal Multi-label Emotion Recognition (MMER)_ ####
 * [1] P Yang, F Luo, S Ma, J Lin, X Sun. [[_A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification_]](https://aclanthology.org/P19-1518/)      
 
 * [2] D Zhou, Y Xiang, L Zhang, C Ye…. [[_A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering_]](https://aclanthology.org/2021.findings-emnlp.412/)      
@@ -460,7 +460,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 * [26] X Ju, D Zhang, J Li, G Zhou. [[_Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413577)
 
 
-  #### _MECPE_ ####
+  #### _Multimodal Emotion-cause Pair Extraction (MECPE__ ####
 * [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
 
 * [2] SV Mathur, AR Jindal, H Mittal…. [[_Exploring Multimodal Emotion Cause Pair Extraction as Sequence Labelling Task_]](https://arxiv.org/abs/2404.02088)      
@@ -469,7 +469,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
    
 
-### _Missing_modality_ ###
+### _Multimodal Affective Computing with Missing_modality_ ###
 
 * [1] T Zhou, S Canu, P Vera, S Ruan. [[_modality fusion based deep neural network for brain tumor segmentation with missing MR modalities_]](https://www.sciencedirect.com/science/article/pii/S0925231221013904)      
 
