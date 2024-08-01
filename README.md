@@ -1,6 +1,12 @@
 
 _Multimodal Affective Computing Papers_
 
+* Multimodal Sentiment Analysis
+* Multimodal Emotion Recognition in Conversation
+* Multimodal Aspect-based Sentiment Analysis
+* Multimodal Multi-label Emotion Recognition
+* Multimodal Emotion-cause Pair Extraction in Conversation
+
 ----------------
 
 >#### _Multimodal Sentiment Analysis (MSA)_ ####
