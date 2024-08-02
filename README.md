@@ -1,7 +1,7 @@
 
 _Multimodal Affective Computing Papers_
 
-* [Multimodal Sentiment Analysis](Multimodal-Sentiment-Analysis-(MSA))
+* [Multimodal Sentiment Analysis](>####-_multimodal-sentiment-analysis-(msa)_-####)
 * [Multimodal Emotion Recognition in Conversation](Multimodal-Emotion-Recognition-in-Conversation-(MERC))
 * [Multimodal Aspect-based Sentiment Analysis](Multimodal-Aspect-based-Sentiment-Analysis-(MABSA))
 * [Multimodal Multi-label Emotion Recognition](Multimodal-Multi-label-Emotion-Recognition-(MMER))
