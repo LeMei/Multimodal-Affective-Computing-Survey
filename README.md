@@ -1,11 +1,11 @@
 
 _Multimodal Affective Computing Papers_
 
-* Multimodal Sentiment Analysis
-* Multimodal Emotion Recognition in Conversation
-* Multimodal Aspect-based Sentiment Analysis
-* Multimodal Multi-label Emotion Recognition
-* Multimodal Emotion-cause Pair Extraction in Conversation
+* [Multimodal Sentiment Analysis](Multimodal-Sentiment-Analysis-(MSA))
+* [Multimodal Emotion Recognition in Conversation](Multimodal-Emotion-Recognition-in-Conversation-(MERC))
+* [Multimodal Aspect-based Sentiment Analysis](Multimodal-Aspect-based-Sentiment-Analysis-(MABSA))
+* [Multimodal Multi-label Emotion Recognition](Multimodal-Multi-label-Emotion-Recognition-(MMER))
+* [Multimodal Emotion-cause Pair Extraction in Conversation](Multimodal-Emotion-cause-Pair-Extraction-(MECPE))
 
 ----------------
 
@@ -112,7 +112,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 * [50] M Chen, S Wang, PP Liang, T Baltrušaitis…. [[_Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning_]](https://dl.acm.org/doi/abs/10.1145/3136755.3136801)      
 
-* [51] R Kaur, S Kautish. [[_A Survey_]](https://www.igi-global.com/chapter/multimodal-sentiment-analysis/308579)      
+* [51] R Kaur, S Kautish. [[_Multimodal Sentiment Analysis: A Survey and Comparison_]](https://www.igi-global.com/chapter/multimodal-sentiment-analysis/308579)      
 
 * [52] A Gandhi, K Adhvaryu, S Poria, E Cambria, A Hussain. [[_A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions_]](https://www.sciencedirect.com/science/article/pii/S1566253522001634)      
 
@@ -122,7 +122,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 * [55] MS Akhtar, DS Chauhan, D Ghosal, S Poria…. [[_NAACL19_Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis(1)_]](https://arxiv.org/abs/1905.05812)      
 
-* [56] F Wang, S Tian, L Yu, J Liu, J Wang, K Li…. [[_s12559-022-10073-9_]](https://link.springer.com/article/10.1007/s12559-022-10073-9)      
+* [56] F Wang, S Tian, L Yu, J Liu, J Wang, K Li…. [[_TEDT: Transformer-Based Encoding–Decoding Translation Network for Multimodal Sentiment Analysis_]](https://link.springer.com/article/10.1007/s12559-022-10073-9)      
 
 * [57] H Luo, L Ji, Y Huang, B Wang, S Ji, T Li. [[_Improving Multimodal Sentiment Analysis via Multi-Scale Fusion of Locally Descriptors_]](https://arxiv.org/abs/2112.01368)      
 
@@ -152,7 +152,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 * [70] D Wang, X Guo, Y Tian, J Liu, LH He, X Luo. [[_A text enhanced transformer fusion network for multimodal sentiment analysis_]](https://www.sciencedirect.com/science/article/pii/S0031320322007385)      
 
-* [71] L Stappen, A Baird, L Schumann…. [[_Collection, Insights and Improvements_]](https://ieeexplore.ieee.org/abstract/document/9484711/)      
+* [71] L Stappen, A Baird, L Schumann…. [[_The Multimodal Sentiment Analysis in Car Reviews (MuSe-CaR) Dataset: Collection, Insights and Improvements_]](https://ieeexplore.ieee.org/abstract/document/9484711/)      
 
 * [72] X Zhao, Y Chen, S Liu, X Zang, Y Xiang…. [[_A New Token Mixup Multimodal Data Augmentation for Multimodal Sentiment Analysis_]](https://dl.acm.org/doi/abs/10.1145/3543507.3583406)      
 
@@ -174,12 +174,9 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 
 >#### _Multimodal Emotion Recognition in Conversation (MERC)_ ####
-
 >> ### Research ###
 
-* [1] S Harata, T Sakuma, S Kato. [[_978-3-031-06388-6_18_]](https://link.springer.com/chapter/10.1007/978-3-031-06388-6_18)      
-    In Affective Computing, a mathematical representation of emotions in the computer is 
-desirable for emotionally interactive agents. This study aims to obtain a latent representation of …
+* [1] S Harata, T Sakuma, S Kato. [[_Audio-Visual Shared Emotion Representation for Robust Emotion Recognition on Modality Missing Using Hemi-hyperspherical Embedding and Latent Space Unification_]](https://link.springer.com/chapter/10.1007/978-3-031-06388-6_18)      
 
 * [2] FA Rahman, G Lu. [[_A Contextualized Real-Time Multimodal Emotion Recognition for Conversational Agents using Graph Convolutional Networks in Reinforcement Learning_]](https://arxiv.org/abs/2310.18363)
   
@@ -243,7 +240,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
     
 * [32] GV Singh, M Firdaus, A Ekbal…. [[_A Multimodal Transformer for Identifying Emotions and Intents in Social Conversations_]](https://ieeexplore.ieee.org/abstract/document/9961847/)      
 
-* [33] K Ezzameli, H Mahersia. [[_A review_]](https://www.sciencedirect.com/science/article/pii/S156625352300163X)      
+* [33] K Ezzameli, H Mahersia. [[_Emotion recognition from unimodal to multimodal analysis: A review_]](https://www.sciencedirect.com/science/article/pii/S156625352300163X)      
 
 * [34] J Vazquez-Rodriguez, G Lefebvre…. [[_Emotion Recognition with Pre-Trained Transformers Using Multimodal Signals_]](https://ieeexplore.ieee.org/abstract/document/9953852/)      
 
@@ -351,8 +348,7 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 
 
-#### _Multimodal Aspect-based Sentiment Analysis (MABSA)_ ####
-
+>#### _Multimodal Aspect-based Sentiment Analysis (MABSA)_ ####
 >> ### Research ###
 
 * [1] H Zhao, M Yang, X Bai, H Liu. [[_A Survey on Multimodal Aspect-Based Sentiment Analysis_]](https://ieeexplore.ieee.org/abstract/document/10401113/)      
@@ -421,7 +417,6 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
      
 
 >#### _Multimodal Multi-label Emotion Recognition (MMER)_ ####
-
 >> ### Research ###
 
 * [1] P Yang, F Luo, S Ma, J Lin, X Sun. [[_A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification_]](https://aclanthology.org/P19-1518/)      
@@ -478,7 +473,6 @@ desirable for emotionally interactive agents. This study aims to obtain a latent
 
 
 >#### _Multimodal Emotion-cause Pair Extraction (MECPE)_####
-
 >> ### Research ###
 
 * [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
