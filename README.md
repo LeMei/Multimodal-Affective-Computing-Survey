@@ -472,7 +472,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 * [26] X Ju, D Zhang, J Li, G Zhou. [[_Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection_]](https://dl.acm.org/doi/abs/10.1145/3394171.3413577)
 
 
->#### _Multimodal Emotion-cause Pair Extraction (MECPE)_####
+>#### _Multimodal Emotion-cause Pair Extraction (MECPE)_###
 >> ### Research ###
 
 * [1] W Li, Y Li, V Pandelea, M Ge, L Zhu…. [[_Cause Pair Extraction in Conversations_]](https://ieeexplore.ieee.org/abstract/document/9926166/)      
