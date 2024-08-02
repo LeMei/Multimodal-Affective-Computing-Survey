@@ -1,11 +1,11 @@
 
 _Multimodal Affective Computing Papers_
 
-* [Multimodal Sentiment Analysis](>####-_multimodal-sentiment-analysis-(msa)_-####)
-* [Multimodal Emotion Recognition in Conversation](Multimodal-Emotion-Recognition-in-Conversation-(MERC))
-* [Multimodal Aspect-based Sentiment Analysis](Multimodal-Aspect-based-Sentiment-Analysis-(MABSA))
-* [Multimodal Multi-label Emotion Recognition](Multimodal-Multi-label-Emotion-Recognition-(MMER))
-* [Multimodal Emotion-cause Pair Extraction in Conversation](Multimodal-Emotion-cause-Pair-Extraction-(MECPE))
+* Multimodal Sentiment Analysis
+* Multimodal Emotion Recognition in Conversation
+* Multimodal Aspect-based Sentiment Analysis
+* Multimodal Multi-label Emotion Recognition
+* Multimodal Emotion-cause Pair Extraction in Conversation
 
 ----------------
 
