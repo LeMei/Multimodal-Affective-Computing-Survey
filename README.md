@@ -514,7 +514,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 >### _Survey_###
 * [1] Liu, H., Lou, T., Zhang, Y., Wu, Y., Xiao, Y., Jense…. [[EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective_]](https://ieeexplore.ieee.org/abstract/document/10443946)
 
->### _Multimodal Affective Computing With ChatGPT_###
+>### _Multimodal Affective Computing With ChatGPT_ ###
 * [1] [[Exploring aspect‐based sentiment quadruple extraction with implicit aspects, opinions, and ChatGPT: a comprehensive survey_]](https://ieeexplore.ieee.org/abstract/document/10443946)
 * [2] [[Leveraging ChatGPT As Text Annotation Tool For Sentiment Analysis_]](https://arxiv.org/abs/2306.17177)
 * [3] [[Sentiment Analysis of Using ChatGPT in Education_]](https://ieeexplore.ieee.org/document/10215977)
