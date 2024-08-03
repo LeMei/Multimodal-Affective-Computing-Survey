@@ -8,7 +8,7 @@
 * Multimodal Multi-label Emotion Recognition
 * Multimodal Emotion-cause Pair Extraction in Conversation
   
-<span style="color:red">We will release a review of multimodal affective computing soon</span> ##
+**We will release a review of multimodal affective computing soon** ##
 
 ----------------
 
