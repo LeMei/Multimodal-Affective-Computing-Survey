@@ -500,7 +500,7 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 * [7] C Shang, A Palmer, J Sun, KS Chen…. [[_Missing View Imputation with Generative Adversarial Networks_]](https://ieeexplore.ieee.org/abstract/document/8257992/)      
 
 
->### _probe_ ###
+>### _Probing_ ###
 * [1] T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow… - 2023 - inria.hal.science. [[_A 176B-Parameter Open-Access Multilingual Language Model_]](https://inria.hal.science/hal-03850124/)      
 
 * [2] Z Elyoseph, D Hadar-Shoval, K Asraf…. [[_ChatGPT outperforms humans in emotional awareness evaluations_]](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1199058/full)      
@@ -509,7 +509,15 @@ on Multimodal Sentiment Analysis_]](https://arxiv.org/abs/2211.13484)
 
 * [4] W Zhao, Y Zhao, X Lu, S Wang, Y Tong…. [[_Is ChatGPT Equipped with Emotional Dialogue Capabilities__]](https://arxiv.org/abs/2304.09582)      
 
-* [5] H Touvron, L Martin, K Stone, P Albert…. [[_Open Foundation and Fine-Tuned Chat Models_]](https://arxiv.org/abs/2307.09288)      
+* [5] H Touvron, L Martin, K Stone, P Albert…. [[_Open Foundation and Fine-Tuned Chat Models_]](https://arxiv.org/abs/2307.09288)
+
+>### _Survey_###
+* [1] Liu, H., Lou, T., Zhang, Y., Wu, Y., Xiao, Y., Jense…. [[EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective_]](https://ieeexplore.ieee.org/abstract/document/10443946)
+
+>### _Multimodal Affective Computing With ChatGPT_###
+* [1] [[Exploring aspect‐based sentiment quadruple extraction with implicit aspects, opinions, and ChatGPT: a comprehensive survey_]](https://ieeexplore.ieee.org/abstract/document/10443946)
+* [2] [[Leveraging ChatGPT As Text Annotation Tool For Sentiment Analysis_]](https://arxiv.org/abs/2306.17177)
+* [3] [[Sentiment Analysis of Using ChatGPT in Education_]](https://ieeexplore.ieee.org/document/10215977)
 
 
 
