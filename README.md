@@ -1,14 +1,14 @@
 
 # Multimodal Affective Computing Papers #
 
-## We summarize the related work for the following tasks:
+## We summarize the related work for the following tasks ##:
 * Multimodal Sentiment Analysis
 * Multimodal Emotion Recognition in Conversation
 * Multimodal Aspect-based Sentiment Analysis
 * Multimodal Multi-label Emotion Recognition
 * Multimodal Emotion-cause Pair Extraction in Conversation
   
-**We will release a review of multimodal affective computing soon** ##
+**We will release a review of multimodal affective computing soon**
 
 ----------------
 
