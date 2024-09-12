@@ -1,4 +1,8 @@
 
+Our survey 'Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective' has released
+link: https://arxiv.org/abs/2409.07388
+
+
 # Multimodal Affective Computing Papers #
 
 ## We summarize the related work for the following tasks:
